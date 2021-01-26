@@ -20,3 +20,6 @@ MIT
 
 [Roadmap]
 Metodologia SCRUM | AGILE
+
+[Agradecimientos]
+Gracias
